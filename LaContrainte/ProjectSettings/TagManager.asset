@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 580191701
+    locked: 0
+  - name: ActiveProps
+    uniqueID: 2587270535
+    locked: 0
+  - name: PlayerDeactiveProps
+    uniqueID: 2236837489
+    locked: 0
+  - name: Player
+    uniqueID: 300650875
+    locked: 0
+  - name: PlayerActiveProps
+    uniqueID: 435356529
+    locked: 0
+  - name: DeactiveProps
+    uniqueID: 3734659451
+    locked: 0
+  - name: LocalCanvas
+    uniqueID: 2351743845
+    locked: 0
